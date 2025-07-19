@@ -1,0 +1,3 @@
+import React, { useState, useEffect } from "react";
+import { Card, CardContent } from "@/components/ui/card";
+... (rest of code omitted for brevity) ...
